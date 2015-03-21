@@ -15,7 +15,7 @@ except:
     Pool = None
 # server specified configutaions
 max_card_count_cn = max_card_count_kr = max_card_count_sg = 250
-max_card_count_tw = 300
+max_card_count_tw = 400
 max_card_count_jp = 350
 max_fp_cn = max_fp_kr = max_fp_sg = 50000
 max_fp_tw = max_fp_jp = 1000000
